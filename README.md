@@ -2,6 +2,20 @@
 
 https://www.makeuseof.com/badges-that-will-supercharge-your-github-repository/#:~:text=The%20GitHub%20Stats%20badge%20also%20provides%20ranks%20as,the%20better%20your%20ranking.%202.%20Most%20Used%20Languages
 
+# Top 5 Badges That Will Take Your GitHub Repository to the Next Level
+## 1. GitHub Stats
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Tanu-N-Prabhu&show_icons=true)
+## 2. Most Used Languages
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanu-N-Prabhu&theme=blue-green)
+## 3. Contributors Badge
+![Your Repository's Stats](https://contrib.rocks/image?repo=Tanu-N-Prabhu/Python)
+## 4. Random Joke Generator
+![Jokes Card](https://readme-jokes.vercel.app/api)
+## 5. Profile View Counter
+![Profile View Counter](https://komarev.com/ghpvc/?username=Tanu-N-Prabhu)
+### Repository View Counter - HITS
+![Hits](https://hitcounter.pythonanywhere.com/count/ta
+
 Repositório do roteiro desse vídeo: https://github.com/rafaballerini/Perf...
 Repositório do meu perfil - https://github.com/rafaballerini/rafa...
 Guia de markdown - https://docs.pipz.com/central-de-ajud...
@@ -32,6 +46,8 @@ Here are some ideas to get you started:
   <!--All inbuilt themes :- dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula   -->    
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcelobarbieri&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelobarbieri&layout=compact&langs_count=7&theme=dracula"/>
+    
+   
 </div>
   
 <!--  
