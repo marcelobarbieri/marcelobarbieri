@@ -1,6 +1,14 @@
-### Hi there 👋
-
 <!--
+
+Repositório do roteiro desse vídeo: https://github.com/rafaballerini/Perf...
+Repositório do meu perfil - https://github.com/rafaballerini/rafa...
+Guia de markdown - https://docs.pipz.com/central-de-ajud...
+Site de emojis - https://emojipedia.org/search/?q=bag
+Repositório do Github Stats - https://github.com/anuraghazra/github...
+Site de Badges 1 - https://dev.to/envoy_/150-badges-for-...
+Fazedor de gifs - https://picrew.me/image_maker/338224
+Passo a passo de como adicionar a cobrinha de commit - https://www.instagram.com/p/CPjUBhXDNEE/
+
 **marcelobarbieri/marcelobarbieri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -20,8 +28,8 @@ Here are some ideas to get you started:
 <div align="center">
   <a href="https://github.com/marcelobarbieri">
   <!--All inbuilt themes :- dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula   -->    
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcelobarbieri&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelobarbieri&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcelobarbieri&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelobarbieri&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
 <!--  
