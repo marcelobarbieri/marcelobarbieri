@@ -1,4 +1,4 @@
-<!--
+
 
 https://www.makeuseof.com/badges-that-will-supercharge-your-github-repository/#:~:text=The%20GitHub%20Stats%20badge%20also%20provides%20ranks%20as,the%20better%20your%20ranking.%202.%20Most%20Used%20Languages
 
@@ -15,7 +15,7 @@ https://www.makeuseof.com/badges-that-will-supercharge-your-github-repository/#:
 ![Profile View Counter](https://komarev.com/ghpvc/?username=Tanu-N-Prabhu)
 ### Repository View Counter - HITS
 ![Hits](https://hitcounter.pythonanywhere.com/count/ta
-
+<!--
 Repositório do roteiro desse vídeo: https://github.com/rafaballerini/Perf...
 Repositório do meu perfil - https://github.com/rafaballerini/rafa...
 Guia de markdown - https://docs.pipz.com/central-de-ajud...
