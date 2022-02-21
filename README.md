@@ -15,9 +15,8 @@
 ## Meus conhecimentos :nerd_face:
 <div id = "Tecnologias" style = "display: inline-block">
 
-    <!--
+    
     <a href = "#" target = "_blank"><img src = "" height = "50" width = "75"></a> 
-    -->
 
     <a href = "https://pt.wikipedia.org/wiki/C_Sharp" target = "_blank"><img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height = "50" width = "75"></a>
     <a href = "https://pt.wikipedia.org/wiki/Unity" target = "_blank"><img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height = "50" width = "75"></a>
