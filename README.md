@@ -1,4 +1,4 @@
-<a href="https://app.daily.dev/marcelobarbieri"><img src="https://api.daily.dev/devcards/2a99040e3fea48dba89f9a3098f5107a.png?r=7vl" width="400" alt="Marcelo de Paiva Barbieri's Dev Card"/></a>
+<!-- <a href="https://app.daily.dev/marcelobarbieri"><img src="https://api.daily.dev/devcards/2a99040e3fea48dba89f9a3098f5107a.png?r=7vl" width="400" alt="Marcelo de Paiva Barbieri's Dev Card"/></a> -->
 
 <!--
 # Olá, mundo! :metal:
