@@ -1,3 +1,5 @@
+<iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVOBRQwnI=/?moveToViewport=-675,-400,1349,798" frameBorder="0" scrolling="no" allowFullScreen></iframe>
+
 <!-- <a href="https://app.daily.dev/marcelobarbieri"><img src="https://api.daily.dev/devcards/2a99040e3fea48dba89f9a3098f5107a.png?r=7vl" width="400" alt="Marcelo de Paiva Barbieri's Dev Card"/></a> -->
 
 <!--
