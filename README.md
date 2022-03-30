@@ -1,4 +1,10 @@
-## Meus conhecimentos
+
+
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+          
+          
+
+<!-- ## Meus conhecimentos
 
 <div id = "Tecnologias" style = "display: inline-block">    
     <a href = "#" target = "_blank"><img src = "" height = "50" width = "75"></a> 
@@ -11,7 +17,7 @@
     <a href = "https://pt.wikipedia.org/wiki/Markdown" target = "_blank"><img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height = "50" width = "75"></a>
     <a href = "https://pt.wikipedia.org/wiki/Microsoft_SQL_Server" target = "_blank"><img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height = "50" width = "75"></a>
     <a href = "https://pt.wikipedia.org/wiki/MySQL" target = "_blank"><img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height = "50" width = "75"></a>
-</div>
+</div> -->
 
 <!-- <a href="https://app.daily.dev/marcelobarbieri"><img src="https://api.daily.dev/devcards/2a99040e3fea48dba89f9a3098f5107a.png?r=7vl" width="400" alt="Marcelo de Paiva Barbieri's Dev Card"/></a> -->
 
